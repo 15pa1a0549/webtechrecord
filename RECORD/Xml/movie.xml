@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="movie.xsl"type="text/xsl" ?>
+<!DOCTYPE movieinfo [
+<!ELEMENT movieinfo (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Category (#PCDATA)>
+<!ELEMENT Release (#PCDATA)>
+<!ELEMENT Runningtime (#PCDATA)>
+<!ELEMENT Language (#PCDATA)>
+<!ELEMENT Userreview (#PCDATA)>
+]>
+<movieinfo>
+<movie>
+    <Title>Kirrak party</Title>
+    <Description>It is a 2018 Indian Telugu language campus romantic comedy film directed by Sharan Koppisetty and produced by Ramabrahmam Sunkara.</Description>
+    <Category>comedy</Category>			 
+    <Release>16 March 2018</Release>
+    <Runningtime>11.00 a.m, 2.00 p.m, 6.00 pm.</Runningtime>
+    <Language>Telugu</Language>
+    <Userreview>Jai,good,3.5/5</Userreview>
+</movie>
+<movie>
+    <Title>Bhanumathi</Title>
+    <Description>It is a 2017 Indian Telugu language,Anushka played as lead.</Description>
+    <Category>Horror</Category>			 
+    <Release>7 November 2017</Release>
+    <Runningtime>11.00 a.m, 2.00 p.m, 6.00 pm.</Runningtime>
+    <Language>Telugu</Language>
+    <Userreview>Naveen,super,4.5/5</Userreview>
+</movie>
+<movie>
+    <Title>Raju gari gadhi</Title>
+    <Description>It is a 2017 Indian Telugu language horror comedy film directed by Sharan Koppisetty,Samantha played a keyrole.</Description>
+    <Category>Horror-comedy</Category>			 
+    <Release>10 March 2017</Release>
+    <Runningtime>11.00 a.m, 2.00 p.m, 6.00 pm.</Runningtime>
+    <Language>Telugu</Language>
+    <Userreview>Sai,Nice,4/5</Userreview>
+</movie>
+</movieinfo>
+	
+	
+
